@@ -1,0 +1,8 @@
+{
+  "AWSDockerrunVersion": "1",
+  "Ports":[
+   {"ContainerPort: "3000"}
+         ],
+  "Logging": "/var/log/node"
+}
+
